@@ -1,0 +1,11 @@
+/home/monulen/Projects/VsCode/KURSY/Lesson1_Task2/MyApp.Core/bin/Debug/net8.0/MyApp.Core.deps.json
+/home/monulen/Projects/VsCode/KURSY/Lesson1_Task2/MyApp.Core/bin/Debug/net8.0/MyApp.Core.dll
+/home/monulen/Projects/VsCode/KURSY/Lesson1_Task2/MyApp.Core/bin/Debug/net8.0/MyApp.Core.pdb
+/home/monulen/Projects/VsCode/KURSY/Lesson1_Task2/MyApp.Core/obj/Debug/net8.0/MyApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/monulen/Projects/VsCode/KURSY/Lesson1_Task2/MyApp.Core/obj/Debug/net8.0/MyApp.Core.AssemblyInfoInputs.cache
+/home/monulen/Projects/VsCode/KURSY/Lesson1_Task2/MyApp.Core/obj/Debug/net8.0/MyApp.Core.AssemblyInfo.cs
+/home/monulen/Projects/VsCode/KURSY/Lesson1_Task2/MyApp.Core/obj/Debug/net8.0/MyApp.Core.csproj.CoreCompileInputs.cache
+/home/monulen/Projects/VsCode/KURSY/Lesson1_Task2/MyApp.Core/obj/Debug/net8.0/MyApp.Core.dll
+/home/monulen/Projects/VsCode/KURSY/Lesson1_Task2/MyApp.Core/obj/Debug/net8.0/refint/MyApp.Core.dll
+/home/monulen/Projects/VsCode/KURSY/Lesson1_Task2/MyApp.Core/obj/Debug/net8.0/MyApp.Core.pdb
+/home/monulen/Projects/VsCode/KURSY/Lesson1_Task2/MyApp.Core/obj/Debug/net8.0/ref/MyApp.Core.dll
