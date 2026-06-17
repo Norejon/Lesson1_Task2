@@ -73,7 +73,7 @@ namespace MyApp
 
                     case "exit":
                         running = false;
-                        Console.WriteLine("Вихід з програми. Гарного дня!");
+                        Console.WriteLine("Вихід з програми. Гарного дня!😊");
                         break;
 
                     default:
