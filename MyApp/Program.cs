@@ -10,7 +10,7 @@ namespace MyApp
             ProductCatalog catalog = new ProductCatalog();
             bool running = true;
 
-            Console.WriteLine("=== Програма керування каталогом товарів ===");
+            Console.WriteLine("=== Програма управління каталогом товарів ===");
             Console.WriteLine("Доступні команди: add, remove, list, find, exit");
 
             while (running)
